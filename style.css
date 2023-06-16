@@ -560,17 +560,31 @@ justify-content: space-around;
 }
 .sub_total{
     position: absolute;
-    width: 92px;
+    width: 71px;
     height: 33px;
     left: 600px;
     top: 0px;
     
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 700;
-    font-size: 17px;
+    font-weight: 500;
+    font-size: 15px;
     line-height: 33px;
-    color: #00302E;
+    color: #3A8F4D;
+}
+.sub_totall{
+    position: absolute;
+    width: 63px;
+    height: 33px;
+    left: 600px;
+    top: 0px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 33px;
+    color: #FF3A44;
 }
 .block{
     position: absolute;
